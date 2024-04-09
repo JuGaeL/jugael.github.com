@@ -43,5 +43,3 @@ links.forEach(function(link){
         return false;
     })
 });
-
-animate__fadeOutUp
